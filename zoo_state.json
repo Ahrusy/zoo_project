@@ -1,0 +1,43 @@
+{
+    "name": "\u041a\u0430\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u0437\u043e\u043e\u043f\u0430\u0440\u043a",
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "\u041f\u043e\u043f\u0443\u0433\u0430\u0439",
+            "age": 2,
+            "attributes": {
+                "can_fly": true
+            }
+        },
+        {
+            "type": "Mammal",
+            "name": "\u041b\u0435\u0432",
+            "age": 5,
+            "attributes": {
+                "has_fur": true
+            }
+        },
+        {
+            "type": "Reptile",
+            "name": "\u0417\u043c\u0435\u044f",
+            "age": 3,
+            "attributes": {
+                "is_venomous": false
+            }
+        }
+    ],
+    "employees": [
+        {
+            "type": "ZooKeeper",
+            "name": "\u0420\u0443\u0441\u043b\u0430\u043d",
+            "position": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c \u0437\u043e\u043e\u043f\u0430\u0440\u043a\u0430",
+            "attributes": {}
+        },
+        {
+            "type": "Veterinarian",
+            "name": "\u0421\u0442\u0430\u0441",
+            "position": "\u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440",
+            "attributes": {}
+        }
+    ]
+}
